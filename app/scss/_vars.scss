@@ -39,7 +39,8 @@ $bg: #f6f6f6;
     cursor: pointer;
 }
 
-%checkbox-hiden{
+%checkbox-hiden,
+%radio-hiden{
     width: 1px;
     height: 1px;
     overflow: hidden;
